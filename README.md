@@ -1,5 +1,11 @@
 # Rich-Text
 
+## Aplicação
+
+<p>
+  <img src="https://github.com/matheusramyres/rich-text-editor-react-slate/blob/master/img/01.png" width="1000" alt="rich-text">
+</p>
+
 ## Instalações necessárias
 
 1-[Node js](https://nodejs.org/en/)
